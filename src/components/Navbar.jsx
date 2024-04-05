@@ -20,7 +20,7 @@ const Navbar = () => {
           <AiOutlineMenu size={30} />
         </div>
         <h1 className="text-2xl sm:text-3xl lg:text-4xl px-2">
-          Demon <span className="font-bold">Eats</span>
+          Titanic <span className="font-bold">Eats</span>
         </h1>
         <div className="hidden lg:flex items-center bg-gray-200 rounded-full p-1 text-[14px]">
           <p className="bg-black text-white rounded-full p-2">Delivery</p>
@@ -43,7 +43,10 @@ const Navbar = () => {
       {/* Mobile Menu */}
       {/* Overlay */}
       {nav ? (
-        <div className="bg-black/80 fixed w-full h-screen z-10 top-0 left-0"></div>
+        <div
+          onClick={() => setNav(false)}
+          className="bg-black/80 fixed w-full h-screen z-10 top-0 left-0"
+        ></div>
       ) : (
         ""
       )}
@@ -62,7 +65,7 @@ const Navbar = () => {
           className="absolute right-4 top-4 cursor-pointer"
         />
         <h2 className="text-2xl p-4">
-          Demon <span className="font-bold">Eats</span>
+          Titanic <span className="font-bold">Eats</span>
         </h2>
         <nav>
           <ul className="flex flex-col p-4 text-gray-800">
