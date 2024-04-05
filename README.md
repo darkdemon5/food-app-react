@@ -68,3 +68,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![image](https://github.com/darkdemon5/food-app-react/assets/58883828/7841ff64-12c5-4ce5-b7f2-15f0f8988025)
+![image](https://github.com/darkdemon5/food-app-react/assets/58883828/b8eefa54-dd75-43a6-a727-53c0fe235840)
+![image](https://github.com/darkdemon5/food-app-react/assets/58883828/7ff53cf0-5746-4974-b7d5-b28f138486dc)
+![image](https://github.com/darkdemon5/food-app-react/assets/58883828/225447f1-2685-4404-979b-bccf4dd2e02e)
+
+
